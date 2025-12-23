@@ -114,3 +114,12 @@ _Java Backend Developer with Full Stack experience._
 
 Educational and portfolio use only.
 Feel free to study and adapt the code.
+
+---
+
+<br>
+<br>
+
+<p align="center">
+  <i>Soli Deo Gloria</i>
+</p>
